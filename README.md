@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![genesis-algorithms's github stats](https://github-readme-stats.vercel.app/api?username=genesis-algorithms)](https://github.com/genesis-algorithms/github-readme-stats)
+
