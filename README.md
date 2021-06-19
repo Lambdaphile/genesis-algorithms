@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![genesis-algorithms's github stats](https://github-readme-stats.vercel.app/api?username=genesis-algorithms&show_icons=true&theme=merko)](https://github.com/genesis-algorithms/github-readme-stats)
+[![genesis-algorithms's github stats](https://github-readme-stats.vercel.app/api?username=genesis-algorithms&show_icons=true&theme=tokyonight)](https://github.com/genesis-algorithms/github-readme-stats)
 
