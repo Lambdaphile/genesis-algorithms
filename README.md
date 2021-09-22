@@ -1,6 +1,29 @@
-### Hi there 👋
+<div align="center">
+<img height="160" src="https://i.pinimg.com/originals/ce/65/d9/ce65d9c1a813cad46ccd30a81fa20ba9.gif" alt="gif with funny random cat say thank you." />
+</div>
 
-...Coming soom™ 
+<p align="center">
+<b><a href="https://github.com/golang/go">JS dev</a></b>
+•
+<b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
+•
+<b><a href="mailto:glepnir@gopherhub.org"> Email me</a></b>
+•
+<b><a href="https://blog.gopherhub.org">My Blog</a></b>
+•
+<b><a href="https://www.paypal.me/bobbyhub">Sponsor</a></b>
+</p>
+
+
+<p align="center">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
+
+</p>
+
 
 <!--
 **genesis-algorithms/genesis-algorithms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +40,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![genesis-algorithms's github stats](https://github-readme-stats.vercel.app/api?username=genesis-algorithms&show_icons=true&theme=tokyonight)](https://github.com/genesis-algorithms/github-readme-stats)
+---
+
+### 🧙‍♂️ Currently learning
+
+<p>
+   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
+ 
+</p>
+
+
+### Projects involved
+
+
+
 
